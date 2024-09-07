@@ -1,2 +1,2 @@
-# rust-monorepo-example-
+# rust-monorepo-example
 Example test of a Rust monorepo
